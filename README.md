@@ -1,2 +1,1 @@
-# Project-63
-Dictionary App in React Native and Expo
+# eac20133c99ae5afca10532861a758b9
